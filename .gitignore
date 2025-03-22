@@ -1,0 +1,31 @@
+__pycache__
+/data
+/data/*
+/results/*
+/code/results/*
+/code/test.py
+/figures/
+
+
+/data/dataset00/
+/data/dataset01/
+/data/dataset02/
+
+# mac os
+.DS_Store
+__MACOSX/
+
+
+# python
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+*.npy
+*.npz
+*.pkl
+*.mat
+
+ECE276A_PR3.pdf
