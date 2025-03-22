@@ -1,6 +1,6 @@
 # Visual-Inertial SLAM with Extended Kalman Filter
 
-![SLAM Visualization](assets/slam_00.gif)
+![SLAM Visualization](assets/slam_01.gif)
 
 This repository implements a Visual-Inertial SLAM system using an Extended Kalman Filter (EKF) approach, supporting both IMU-based prediction and visual landmark updates.
 
